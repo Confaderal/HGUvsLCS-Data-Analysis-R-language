@@ -1,0 +1,1107 @@
+﻿Team,Player,Event,Mins,Secs,X,Y,X2,Y2,On/Off-target or Saved,Cross successful or blocked,Thru Pass successful or blocked,Half
+HGU(A),9.Pedro,Successful Pass,0,11,50,51,62,50,,,,First
+HGU(A),7.Shahfiq,Thru Pass,0,14,63,49,21,85,,,intercepted,First
+LCS(H),3.Tajeli,Interception,0,15,20,87,-,-,,,,First
+HGU(A),4.Nazrul,Interception,0,20,53,96,-,-,,,,First
+HGU(A),6.Kaishu,Successful Pass,0,21,72,78,55,80,,,,First
+LCS(H),6.Anu,Interception,0,23,60,75,-,-,,,,First
+LCS(H),6.Anu,Successful Pass,0,24,60,75,66,55,,,,First
+LCS(H),9.Shinwook,Stray Pass,0,26,68,53,79,98,,,,First
+HGU(A),4.Nazrul,Throw,0,44,76,98,59,94,,,,First
+LCS(H),28.Saifulah,Foul,0,45,59,95,-,-,,,,First
+HGU(A),4.Nazrul,Set Piece,1,8,77,91,41,82,,,,First
+HGU(A),9.Pedro,Successful Pass,1,10,48,95,46,85,,,,First
+HGU(A),14.Kiki,Stray Pass,1,14,39,81,23,54,,,,First
+LCS(H),2.Henriqu,Interception,1,14,24,53,-,-,,,,First
+LCS(H),2.Henriqu,Dribble attempt,1,17,30,52,79,27,,,,First
+LCS(H),2.Henriqu,Successful Pass,1,23,79,28,80,18,,,,First
+LCS(H),28.Saifulah,Successful Pass,1,25,78,31,80,48,,,,First
+HGU(A),4.Nazrul,Interception,1,27,79,66,-,-,,,,First
+HGU(A),19.Amy,Successful Pass,1,30,66,72,76,69,,,,First
+HGU(A),14.Kiki,Shot,1,31,64,66,14,42,off-target,,,First
+LCS(H),18.Hassan,Successful Pass,1,37,17,44,28,50,,,,First
+LCS(H),6.Anu,Successful Pass,1,39,28,50,27,64,,,,First
+LCS(H),14.Hariss,Successful Pass,1,41,29,67,37,94,,,,First
+LCS(H),3.Tajeli,Successful Pass,1,42,39,94,28,70,,,,First
+LCS(H),14.Hariss,Successful Pass,1,45,30,70,17,54,,,,First
+LCS(H),18.Hassan,Successful Pass,1,50,16,53,27,84,,,,First
+LCS(H),14.Hariss,Thru Pass,1,53,24,77,83,45,,,unsuccessful,First
+HGU(A),21.Nazhim,Successful Pass,1,58,81,43,89,44,,,,First
+HGU(A),13.Barudin,Successful Pass,2,4,88,47,82,61,,,,First
+HGU(A),6.Kaishu,Successful Pass,2,12,77,68,65,36,,,,First
+HGU(A),7.Shahfiq,Successful Pass,2,15,74,48,80,69,,,,First
+HGU(A),6.Kaishu,Successful Pass,2,16,80,71,63,57,,,,First
+HGU(A),7.Shahfiq,Successful Pass,2,17,64,57,67,44,,,,First
+HGU(A),20.Suhaimi,Stray Pass,2,21,69,44,25,93,,,,First
+LCS(H),3.Tajeli,Interception,2,21,25,93,-,-,,,,First
+HGU(A),19.Amy,Foul,2,46,26,93,-,-,,,,First
+LCS(H),3.Tajeli,Set Piece,2,50,30,91,12,72,,,,First
+LCS(H),14.Hariss,Successful Pass,2,53,19,76,19,48,,,,First
+LCS(H),18.Hassan,Successful Pass,2,57,17,45,25,26,,,,First
+LCS(H),2.Henriqu,Stray Pass,3,0,24,25,44,17,,,,First
+HGU(A),10.Shawal,Interception,3,0,39,16,-,-,,,,First
+HGU(A),23.Sahil,Successful Pass,3,2,29,18,12,7,,,,First
+HGU(A),9.Pedro,Cross,3,5,9,9,4,17,,blocked,,First
+HGU(A),20.Suhaimi,Throw,3,27,12,1,27,9,,,,First
+HGU(A),10.Shawal,Successful Pass,3,30,18,3,26,4,,,,First
+HGU(A),20.Suhaimi,Stray Pass,3,32,26,4,47,5,,,,First
+LCS(H),9.Shinwook,Interception,3,34,43,6,-,-,,,,First
+LCS(H),9.Shinwook,Successful Pass,3,34,43,7,37,14,,,,First
+HGU(A),14.Kiki,Interception,3,35,38,16,-,-,,,,First
+HGU(A),6.Kaishu,Successful Pass,3,38,61,23,63,14,,,,First
+HGU(A),20.Suhaimi,Successful Pass,3,41,71,14,69,24,,,,First
+HGU(A),6.Kaishu,Successful Pass,3,43,74,23,64,7,,,,First
+HGU(A),10.Shawal,Successful Pass,3,45,68,7,69,23,,,,First
+LCS(H),6.Anu,Interception,3,50,68,27,-,-,,,,First
+LCS(H),6.Anu,Foul,3,51,70,27,-,-,,,,First
+HGU(A),13.Barudin,Successful Pass,4,12,89,50,84,37,,,,First
+HGU(A),21.Nazhim,Successful Pass,4,15,82,31,58,29,,,,First
+LCS(H),6.Anu,Interception,4,16,58,30,-,-,,,,First
+HGU(A),6.Kaishu,Possession Lost,4,18,76,50,-,-,,,,First
+LCS(H),16.Hami,Interception,4,20,72,45,-,-,,,,First
+LCS(H),6.Anu,Successful Pass,4,21,70,37,72,69,,,,First
+HGU(A),23.Sahil,Interception,4,25,68,60,-,-,,,,First
+LCS(H),7.Song,Interception,4,27,70,50,-,-,,,,First
+LCS(H),7.Song,Successful Pass,4,27,69,50,78,48,,,,First
+LCS(H),9.Shinwook,Possession Lost,4,30,77,55,-,-,,,,First
+LCS(H),16.Hami,Stray Pass,4,31,77,57,88,49,,,,First
+HGU(A),6.Kaishu,Successful Pass,4,33,87,50,87,69,,,,First
+HGU(A),4.Nazrul,Successful Pass,4,39,82,80,67,93,,,,First
+HGU(A),14.Kiki,Successful Pass,4,40,70,93,70,76,,,,First
+HGU(A),7.Shahfiq,Thru Pass,4,42,72,64,54,64,,,intercepted,First
+LCS(H),14.Hariss,Interception,4,43,56,70,-,-,,,,First
+LCS(H),8.Shahdan,Successful Pass,4,44,66,74,55,64,,,,First
+LCS(H),6.Anu,Successful Pass,4,47,53,58,65,42,,,,First
+LCS(H),28.Saifulah,Successful Pass,4,51,61,57,37,62,,,,First
+LCS(H),14.Hariss,Successful Pass,4,56,46,64,81,6,,,,First
+LCS(H),12.Iqram,Cross,4,59,85,6,88,11,,blocked,,First
+HGU(A),20.Suhaimi,Interception,4,59,88,11,-,-,,,,First
+LCS(H),8.Shahdan,Corner,5,39,98,3,96,41,,,,First
+HGU(A),9.Pedro,Interception,5,40,96,36,-,-,,,,First
+LCS(H),28.Saifulah,Stray Pass,5,42,67,22,85,38,,,,First
+HGU(A),21.Nazhim,Successful Pass,5,48,74,24,78,34,,,,First
+HGU(A),20.Suhaimi,Successful Pass,5,51,70,16,56,16,,,,First
+HGU(A),23.Sahil,Successful Pass,5,55,58,18,29,77,,,,First
+HGU(A),19.Amy,Stray Pass,6,3,7,80,1,72,,,,First
+LCS(H),12.Iqram,Successful Pass,6,19,31,5,14,27,,,,First
+LCS(H),2.Henriqu,Successful Pass,6,21,18,24,18,73,,,,First
+LCS(H),14.Hariss,Successful Pass,6,25,19,71,26,94,,,,First
+LCS(H),3.Tajeli,Successful Pass,6,27,22,94,46,69,,,,First
+HGU(A),6.Kaishu,Interception,6,29,46,69,-,-,,,,First
+HGU(A),6.Kaishu,Successful Pass,6,31,45,68,28,54,,,,First
+HGU(A),14.Kiki,Successful Pass,6,34,32,57,23,91,,,,First
+HGU(A),19.Amy,Thru Pass,6,38,27,89,17,51,,,successful,First
+HGU(A),23.Sahil,Assist,6,41,17,48,20,55,,,,First
+HGU(A),9.Pedro,Shot,6,43,20,54,0,43,Goal,,,First
+LCS(H),16.Hami,Successful Pass,7,48,44,41,38,7,,,,First
+LCS(H),12.Iqram,Successful Pass,7,50,40,11,57,3,,,,First
+LCS(H),28.Saifulah,Successful Pass,7,52,59,4,32,5,,,,First
+LCS(H),12.Iqram,Successful Pass,7,55,33,7,21,29,,,,First
+LCS(H),2.Henriqu,Successful Pass,7,58,24,27,21,69,,,,First
+LCS(H),14.Hariss,Successful Pass,8,2,22,60,34,94,,,,First
+LCS(H),3.Tajeli,Successful Pass,8,4,33,93,38,69,,,,First
+LCS(H),6.Anu,Successful Pass,8,6,41,72,51,96,,,,First
+LCS(H),7.Song,Successful Pass,8,7,55,94,64,67,,,,First
+HGU(A),7.Shahfiq,Foul,8,8,44,79,-,-,,,,First
+LCS(H),6.Anu,Set Piece,8,14,45,78,45,60,,,,First
+LCS(H),8.Shahdan,Successful Pass,8,17,48,52,48,31,,,,First
+LCS(H),2.Henriqu,Stray Pass,8,26,57,22,99,13,,,,First
+HGU(A),21.Nazhim,Successful Pass,9,9,77,27,71,11,,,,First
+HGU(A),20.Suhaimi,Successful Pass,9,11,72,10,85,25,,,,First
+HGU(A),21.Nazhim,Stray Pass,9,11,86,26,57,17,,,,First
+LCS(H),12.Iqram,Interception,9,13,58,14,-,-,,,,First
+HGU(A),10.Shawal,Interception,9,15,60,13,-,-,,,,First
+HGU(A),10.Shawal,Foul,9,18,63,15,-,-,,,,First
+LCS(H),8.Shahdan,Set Piece,9,41,63,22,80,6,,,,First
+LCS(H),12.Iqram,Cross,9,44,84,6,93,43,,successful,,First
+LCS(H),7.Song,Shot,9,45,90,37,98,40,saved,,,First
+LCS(H),2.Henriqu,Shot,9,46,92,44,99,34,off-target,,,First
+HGU(A),13.Barudin,Successful Pass,10,10,96,51,95,40,,,,First
+HGU(A),21.Nazhim,Successful Pass,10,13,94,37,88,20,,,,First
+HGU(A),20.Suhaimi,Successful Pass,10,17,87,11,65,3,,,,First
+HGU(A),10.Shawal,Successful Pass,10,20,69,3,85,4,,,,First
+HGU(A),20.Suhaimi,Successful Pass,10,23,83,7,72,30,,,,First
+HGU(A),14.Kiki,Successful Pass,10,26,76,29,60,36,,,,First
+HGU(A),9.Pedro,Successful Pass,10,26,60,30,70,44,,,,First
+LCS(H),7.Song,Interception,10,29,55,56,-,-,,,,First
+LCS(H),14.Hariss,Successful Pass,10,31,48,54,53,43,,,,First
+LCS(H),8.Shahdan,Successful Pass,10,32,54,44,47,52,,,,First
+LCS(H),14.Hariss,Successful Pass,10,34,44,59,48,91,,,,First
+LCS(H),3.Tajeli,Successful Pass,10,36,39,82,14,51,,,,First
+LCS(H),18.Hassan,Successful Pass,10,42,17,49,55,4,,,,First
+LCS(H),12.Iqram,Possession Lost,10,45,58,3,-,-,,,,First
+HGU(A),20.Suhaimi,Throw,11,5,61,2,45,11,,,,First
+LCS(H),2.Henriqu,Interception,11,6,43,11,-,-,,,,First
+LCS(H),12.Iqram,Successful Pass,11,8,37,6,15,36,,,,First
+LCS(H),18.Hassan,Successful Pass,11,12,11,41,28,6,,,,First
+LCS(H),12.Iqram,Successful Pass,11,16,25,11,45,3,,,,First
+LCS(H),28.Saifulah,Thru Pass,11,18,43,6,84,6,,,unsuccessful,First
+HGU(A),20.Suhaimi,Interception,11,22,87,7,-,-,,,,First
+HGU(A),20.Suhaimi,Successful Pass,11,23,91,9,96,38,,,,First
+HGU(A),13.Barudin,Successful Pass,11,25,96,30,85,19,,,,First
+HGU(A),21.Nazhim,Successful Pass,11,26,88,18,83,6,,,,First
+HGU(A),20.Suhaimi,Successful Pass,11,28,86,4,92,11,,,,First
+HGU(A),21.Nazhim,Stray Pass,11,30,92,13,61,11,,,,First
+LCS(H),28.Saifulah,Interception,11,32,61,13,-,-,,,,First
+HGU(A),23.Sahil,Interception,11,32,63,22,-,-,,,,First
+HGU(A),23.Sahil,Stray Pass,11,36,63,21,27,84,,,,First
+LCS(H),3.Tajeli,Interception,11,36,26,75,-,-,,,,First
+HGU(A),19.Amy,Successful Pass,11,40,37,93,61,88,,,,First
+HGU(A),4.Nazrul,Successful Pass,11,43,63,87,72,68,,,,First
+HGU(A),6.Kaishu,Successful Pass,11,52,76,69,63,61,,,,First
+HGU(A),7.Shahfiq,Successful Pass,11,53,65,61,77,41,,,,First
+HGU(A),21.Nazhim,Successful Pass,11,57,78,31,70,13,,,,First
+HGU(A),20.Suhaimi,Successful Pass,11,58,70,14,73,39,,,,First
+HGU(A),6.Kaishu,Successful Pass,12,2,74,48,54,50,,,,First
+HGU(A),9.Pedro,Successful Pass,12,4,55,48,30,6,,,,First
+HGU(A),10.Shawal,Thru Pass,12,9,29,16,13,42,,,intercepted,First
+LCS(H),14.Hariss,Interception,12,11,12,40,-,-,,,,First
+LCS(H),12.Iqram,Successful Pass,12,23,16,20,25,34,,,,First
+HGU(A),23.Sahil,Interception,12,26,28,29,-,-,,,,First
+HGU(A),23.Sahil,Foul,12,25,30,29,-,-,,,,First
+LCS(H),14.Hariss,Set Piece,12,47,33,60,33,32,,,,First
+LCS(H),2.Henriqu,Successful Pass,12,51,34,25,68,3,,,,First
+LCS(H),28.Saifulah,Dribble attempt,12,59,69,5,85,9,,,,First
+LCS(H),28.Saifulah,Successful Pass,13,2,81,12,68,32,,,,First
+LCS(H),6.Anu,Successful Pass,13,4,70,32,66,57,,,,First
+LCS(H),14.Hariss,Successful Pass,13,8,63,58,79,95,,,,First
+LCS(H),3.Tajeli,Cross,13,10,83,94,90,45,,cleared,,First
+HGU(A),21.Nazhim,Interception,13,12,89,45,-,-,,,,First
+LCS(H),7.Song,Shot,13,14,88,52,99,36,off-target,,,First
+LCS(H),8.Shahdan,Corner,13,43,98,3,95,47,,,,First
+LCS(H),2.Henriqu,Successful Pass,13,44,89,62,95,51,,,,First
+LCS(H),7.Song,Shot,13,45,94,51,99,33,off-target,,,First
+HGU(A),14.Kiki,Successful Pass,14,16,69,77,52,65,,,,First
+HGU(A),9.Pedro,Thru Pass,14,20,64,58,23,9,,,intercepted,First
+LCS(H),12.Iqram,Interception,14,21,23,11,-,-,,,,First
+LCS(H),12.Iqram,Successful Pass,14,25,28,7,39,16,,,,First
+LCS(H),28.Saifulah,Successful Pass,14,29,45,22,64,4,,,,First
+LCS(H),12.Iqram,Successful Pass,14,31,70,6,66,19,,,,First
+LCS(H),28.Saifulah,Successful Pass,14,34,61,19,42,24,,,,First
+LCS(H),8.Shahdan,Successful Pass,14,36,45,25,50,40,,,,First
+LCS(H),6.Anu,Successful Pass,14,37,49,41,48,24,,,,First
+LCS(H),8.Shahdan,Successful Pass,14,38,47,23,64,7,,,,First
+LCS(H),28.Saifulah,Successful Pass,14,42,72,17,78,6,,,,First
+LCS(H),12.Iqram,Successful Pass,14,47,84,4,72,13,,,,First
+LCS(H),28.Saifulah,Successful Pass,14,48,74,10,74,25,,,,First
+LCS(H),6.Anu,Thru Pass,14,50,74,25,85,25,,,successful,First
+LCS(H),12.Iqram,Cross,14,53,94,25,95,74,,unsuccessful,,First
+LCS(H),9.Shinwook,Successful Pass,14,57,94,72,83,82,,,,First
+LCS(H),3.Tajeli,Cross,15,3,99,84,91,33,,unsuccessful,,First
+LCS(H),7.Song,Possession Lost,15,6,93,37,-,-,,,,First
+LCS(H),28.Saifulah,Successful Pass,15,18,74,7,70,25,,,,First
+HGU(A),23.Sahil,Interception,15,21,74,37,-,-,,,,First
+LCS(H),6.Anu,Interception,15,23,73,40,-,-,,,,First
+LCS(H),6.Anu,Foul,15,24,73,42,-,-,,,,First
+LCS(H),6.Anu,Yellow Card,15,27,71,48,-,-,,,,First
+HGU(A),21.Nazhim,Set Piece,17,10,73,27,65,34,,,,First
+HGU(A),7.Shahfiq,Successful Pass,17,11,69,34,76,27,,,,First
+HGU(A),21.Nazhim,Successful Pass,17,15,74,19,77,7,,,,First
+HGU(A),20.Suhaimi,Successful Pass,17,16,78,7,92,31,,,,First
+HGU(A),13.Barudin,Successful Pass,17,18,96,32,94,55,,,,First
+HGU(A),6.Kaishu,Successful Pass,17,26,83,57,58,22,,,,First
+HGU(A),23.Sahil,Successful Pass,17,28,56,23,34,4,,,,First
+HGU(A),10.Shawal,Dribble attempt,17,35,41,19,27,32,,,,First
+HGU(A),10.Shawal,Successful Pass,17,36,28,31,27,46,,,,First
+HGU(A),23.Sahil,Shot,17,38,16,60,12,57,blocked,,,First
+LCS(H),3.Tajeli,Interception,17,38,11,58,-,-,,,,First
+LCS(H),3.Tajeli,Successful Pass,17,40,18,63,36,87,,,,First
+HGU(A),4.Nazrul,Interception,17,41,35,85,-,-,,,,First
+HGU(A),19.Amy,Possession Lost,17,44,7,96,-,-,,,,First
+LCS(H),3.Tajeli,Throw,18,10,9,98,26,93,,,,First
+HGU(A),19.Amy,Interception,18,11,27,93,-,-,,,,First
+HGU(A),7.Shahfiq,Successful Pass,18,12,23,87,10,75,,,,First
+HGU(A),9.Pedro,Possession Lost,18,13,8,73,-,-,,,,First
+LCS(H),14.Hariss,Successful Pass,18,15,6,70,14,32,,,,First
+LCS(H),12.Iqram,Successful Pass,18,25,42,14,30,25,,,,First
+LCS(H),2.Henriqu,Successful Pass,18,28,36,23,31,62,,,,First
+LCS(H),14.Hariss,Successful Pass,18,30,32,60,40,95,,,,First
+LCS(H),3.Tajeli,Successful Pass,18,34,39,94,28,66,,,,First
+LCS(H),14.Hariss,Successful Pass,18,36,26,65,16,45,,,,First
+LCS(H),18.Hassan,Successful Pass,18,39,17,48,25,20,,,,First
+LCS(H),2.Henriqu,Successful Pass,18,43,25,20,45,4,,,,First
+LCS(H),12.Iqram,Successful Pass,18,46,55,4,51,17,,,,First
+LCS(H),8.Shahdan,Possession Lost,18,46,47,15,-,-,,,,First
+HGU(A),9.Pedro,Interception,18,47,46,16,-,-,,,,First
+HGU(A),7.Shahfiq,Thru Pass,18,50,55,17,31,36,,,intercepted,First
+HGU(A),9.Pedro,Offside,18,51,33,39,-,-,,,,First
+LCS(H),14.Hariss,Set Piece,18,58,28,51,32,79,,,,First
+LCS(H),3.Tajeli,Successful Pass,19,1,40,83,56,96,,,,First
+LCS(H),7.Song,Successful Pass,19,4,65,93,40,82,,,,First
+LCS(H),3.Tajeli,Successful Pass,19,6,40,85,47,69,,,,First
+LCS(H),6.Anu,Stray Pass,19,7,45,70,60,90,,,,First
+HGU(A),4.Nazrul,Successful Pass,19,10,65,80,79,76,,,,First
+HGU(A),6.Kaishu,Successful Pass,19,13,77,74,91,54,,,,First
+HGU(A),13.Barudin,Successful Pass,19,18,95,55,87,91,,,,First
+LCS(H),7.Song,Interception,19,19,85,90,-,-,,,,First
+LCS(H),7.Song,Possession Lost,19,20,89,95,-,-,,,,First
+HGU(A),4.Nazrul,Throw,19,38,82,97,64,88,,,,First
+HGU(A),9.Pedro,Possession Lost,19,39,69,82,-,-,,,,First
+LCS(H),7.Song,Dribble attempt,19,44,69,91,81,84,,,,First
+HGU(A),4.Nazrul,Foul,19,45,82,85,-,-,,,,First
+LCS(H),8.Shahdan,Set Piece,20,25,86,91,90,43,,,,First
+HGU(A),19.Amy,Interception,20,26,90,58,-,-,,,,First
+LCS(H),16.Hami,Successful Pass,20,28,74,44,65,52,,,,First
+LCS(H),12.Iqram,Successful Pass,20,30,63,50,55,60,,,,First
+LCS(H),3.Tajeli,Thru Pass,20,34,57,68,87,29,,,successful,First
+HGU(A),20.Suhaimi,Interception,20,35,88,31,-,-,,,,First
+LCS(H),2.Henriqu,Successful Pass,20,38,91,32,77,40,,,,First
+LCS(H),28.Saifulah,Shot,20,39,78,36,99,41,blocked,,,First
+HGU(A),6.Kaishu,Interception,20,40,95,41,-,-,,,,First
+LCS(H),28.Saifulah,Throw,20,49,56,2,42,20,,,,First
+LCS(H),3.Tajeli,Successful Pass,20,56,45,75,77,93,,,,First
+LCS(H),12.Iqram,Successful Pass,20,52,41,23,39,71,,,,First
+LCS(H),7.Song,Successful Pass,20,59,70,87,56,89,,,,First
+LCS(H),3.Tajeli,Successful Pass,21,0,56,87,38,61,,,,First
+LCS(H),14.Hariss,Thru Pass,21,5,44,64,76,10,,,successful,First
+LCS(H),28.Saifulah,Cross,21,10,76,8,88,48,,successful,,First
+LCS(H),9.Shinwook,Successful Pass,21,11,89,48,78,57,,,,First
+LCS(H),8.Shahdan,Shot,21,12,76,55,99,32,off-target,,,First
+HGU(A),13.Barudin,Successful Pass,21,39,97,50,96,71,,,,First
+HGU(A),6.Kaishu,Successful Pass,21,42,97,67,95,32,,,,First
+HGU(A),21.Nazhim,Successful Pass,21,46,94,33,69,17,,,,First
+LCS(H),6.Anu,Interception,21,46,72,18,-,-,,,,First
+LCS(H),28.Saifulah,Stray Pass,21,48,71,12,55,12,,,,First
+HGU(A),10.Shawal,Successful Pass,21,52,59,25,51,42,,,,First
+HGU(A),14.Kiki,Thru Pass,21,53,52,45,32,30,,,intercepted,First
+LCS(H),2.Henriqu,Interception,21,53,32,34,-,-,,,,First
+LCS(H),2.Henriqu,Successful Pass,21,56,31,32,17,50,,,,First
+LCS(H),18.Hassan,Successful Pass,22,0,13,50,21,82,,,,First
+LCS(H),3.Tajeli,Successful Pass,22,8,14,90,58,51,,,,First
+LCS(H),9.Shinwook,Successful Pass,22,8,58,50,51,50,,,,First
+LCS(H),16.Hami,Successful Pass,22,11,52,50,77,23,,,,First
+HGU(A),20.Suhaimi,Interception,22,12,78,24,-,-,,,,First
+HGU(A),21.Nazhim,Successful Pass,22,14,78,35,59,18,,,,First
+HGU(A),7.Shahfiq,Possession Lost,22,15,62,22,-,-,,,,First
+LCS(H),12.Iqram,Interception,22,16,59,19,-,-,,,,First
+HGU(A),20.Suhaimi,Interception,22,19,72,6,-,-,,,,First
+LCS(H),12.Iqram,Throw,22,38,79,2,91,10,,,,First
+HGU(A),7.Shahfiq,Interception,22,40,91,5,-,-,,,,First
+LCS(H),12.Iqram,Interception,22,41,86,5,-,-,,,,First
+HGU(A),14.Kiki,Interception,22,44,83,22,-,-,,,,First
+HGU(A),14.Kiki,Foul,22,46,83,16,-,-,,,,First
+LCS(H),8.Shahdan,Set Piece,23,21,81,15,95,44,,,,First
+LCS(H),9.Shinwook,Shot,23,22,95,40,99,43,Goal,,,First
+LCS(H),8.Shahdan,Assist,23,21,81,15,96,45,,,,First
+HGU(A),9.Pedro,Successful Pass,24,15,50,50,63,50,,,,First
+HGU(A),7.Shahfiq,Stray Pass,24,17,66,50,29,2,,,,First
+LCS(H),12.Iqram,Throw,24,35,27,2,41,10,,,,First
+HGU(A),19.Amy,Interception,24,42,42,45,-,-,,,,First
+HGU(A),4.Nazrul,Successful Pass,24,48,32,63,19,71,,,,First
+HGU(A),14.Kiki,Successful Pass,24,52,18,88,39,91,,,,First
+HGU(A),4.Nazrul,Successful Pass,24,56,44,89,26,75,,,,First
+HGU(A),14.Kiki,Possession Lost,24,58,25,70,-,-,,,,First
+LCS(H),14.Hariss,Successful Pass,24,59,32,63,45,51,,,,First
+LCS(H),16.Hami,Successful Pass,25,2,46,49,57,13,,,,First
+LCS(H),7.Song,Successful Pass,25,9,72,24,68,10,,,,First
+LCS(H),12.Iqram,Successful Pass,25,14,70,11,60,22,,,,First
+LCS(H),6.Anu,Successful Pass,25,15,59,18,69,11,,,,First
+LCS(H),28.Saifulah,Successful Pass,25,17,61,19,53,22,,,,First
+LCS(H),6.Anu,Successful Pass,25,20,44,17,14,40,,,,First
+LCS(H),18.Hassan,Successful Pass,25,24,20,50,28,71,,,,First
+LCS(H),14.Hariss,Thru Pass,25,28,29,77,75,66,,,successful,First
+LCS(H),8.Shahdan,Thru Pass,25,32,80,71,92,41,,,offside,First
+LCS(H),9.Shinwook,Offside,25,34,89,41,-,-,,,,First
+LCS(H),7.Song,Cross,25,40,89,8,98,72,,unsuccessful,,First
+HGU(A),4.Nazrul,Interception,25,43,95,61,-,-,,,,First
+LCS(H),28.Saifulah,Successful Pass,25,50,81,93,66,88,,,,First
+LCS(H),3.Tajeli,Successful Pass,25,52,66,84,46,73,,,,First
+LCS(H),14.Hariss,Successful Pass,25,54,44,71,48,42,,,,First
+LCS(H),2.Henriqu,Successful Pass,25,57,45,33,60,5,,,,First
+LCS(H),12.Iqram,Successful Pass,25,59,69,5,67,21,,,,First
+LCS(H),6.Anu,Successful Pass,26,1,67,27,76,54,,,,First
+LCS(H),16.Hami,Successful Pass,26,4,71,56,77,54,,,,First
+LCS(H),8.Shahdan,Successful Pass,26,5,77,58,93,74,,,,First
+LCS(H),28.Saifulah,Cross,26,9,97,81,92,32,,successful,,First
+LCS(H),7.Song,Shot,26,11,89,34,99,42,saved,,,First
+LCS(H),12.Iqram,Cross,26,48,81,8,86,48,,unsuccessful,,First
+LCS(H),16.Hami,Shot,26,52,83,54,99,43,saved,,,First
+HGU(A),13.Barudin,Successful Pass,27,10,96,48,91,34,,,,First
+HGU(A),21.Nazhim,Successful Pass,27,14,93,36,80,38,,,,First
+HGU(A),7.Shahfiq,Successful Pass,27,15,84,34,96,64,,,,First
+HGU(A),6.Kaishu,Successful Pass,27,18,95,67,76,65,,,,First
+HGU(A),14.Kiki,Successful Pass,27,19,77,64,75,49,,,,First
+HGU(A),7.Shahfiq,Successful Pass,27,21,74,48,64,54,,,,First
+HGU(A),9.Pedro,Successful Pass,27,21,64,52,66,16,,,,First
+HGU(A),20.Suhaimi,Successful Pass,27,25,69,16,57,5,,,,First
+HGU(A),20.Suhaimi,Successful Pass,27,40,65,2,85,7,,,,First
+HGU(A),13.Barudin,Successful Pass,28,12,94,47,95,65,,,,First
+HGU(A),6.Kaishu,Successful Pass,28,18,97,63,82,53,,,,First
+HGU(A),7.Shahfiq,Successful Pass,28,18,84,56,96,67,,,,First
+HGU(A),6.Kaishu,Successful Pass,28,22,81,69,77,91,,,,First
+HGU(A),9.Pedro,Successful Pass,28,23,77,90,69,65,,,,First
+LCS(H),6.Anu,Interception,28,25,68,65,-,-,,,,First
+LCS(H),28.Saifulah,Possession Lost,28,27,74,64,-,-,,,,First
+LCS(H),28.Saifulah,Successful Pass,28,34,71,54,62,78,,,,First
+LCS(H),3.Tajeli,Successful Pass,28,36,67,91,52,72,,,,First
+LCS(H),14.Hariss,Successful Pass,28,37,54,71,49,42,,,,First
+LCS(H),2.Henriqu,Successful Pass,28,42,52,41,62,93,,,,First
+LCS(H),3.Tajeli,Stray Pass,28,45,64,90,76,98,,,,First
+HGU(A),4.Nazrul,Throw,29,6,70,97,49,76,,,,First
+HGU(A),14.Kiki,Successful Pass,29,7,50,69,38,86,,,,First
+LCS(H),3.Tajeli,Foul,29,7,37,87,-,-,,,,First
+HGU(A),4.Nazrul,Set Piece,29,38,38,88,26,70,,,,First
+HGU(A),9.Pedro,Possession Lost,29,42,36,67,-,-,,,,First
+LCS(H),8.Shahdan,Successful Pass,29,44,34,73,43,63,,,,First
+LCS(H),16.Hami,Successful Pass,29,46,42,63,44,92,,,,First
+HGU(A),14.Kiki,Foul,29,47,42,69,-,-,,,,First
+LCS(H),6.Anu,Set Piece,29,54,42,76,23,57,,,,First
+LCS(H),14.Hariss,Successful Pass,29,56,23,56,29,27,,,,First
+LCS(H),2.Henriqu,Successful Pass,29,58,38,25,49,4,,,,First
+LCS(H),12.Iqram,Successful Pass,30,1,55,4,43,24,,,,First
+LCS(H),2.Henriqu,Successful Pass,30,4,47,31,47,71,,,,First
+LCS(H),6.Anu,Successful Pass,30,8,46,73,61,57,,,,First
+LCS(H),16.Hami,Successful Pass,30,10,55,63,64,93,,,,First
+LCS(H),3.Tajeli,Successful Pass,30,11,66,91,73,73,,,,First
+LCS(H),28.Saifulah,Successful Pass,30,12,76,67,67,71,,,,First
+LCS(H),3.Tajeli,Stray Pass,30,15,62,75,58,43,,,,First
+LCS(H),3.Tajeli,Foul,30,19,54,43,-,-,,,,First
+HGU(A),20.Suhaimi,Set Piece,30,35,61,31,53,47,,,,First
+HGU(A),14.Kiki,Successful Pass,30,36,56,43,67,24,,,,First
+HGU(A),20.Suhaimi,Successful Pass,30,39,73,21,90,42,,,,First
+HGU(A),13.Barudin,Successful Pass,30,45,81,47,81,64,,,,First
+HGU(A),6.Kaishu,Successful Pass,30,56,75,58,77,35,,,,First
+HGU(A),20.Suhaimi,Successful Pass,30,58,77,29,62,28,,,,First
+HGU(A),9.Pedro,Successful Pass,30,59,62,30,82,47,,,,First
+HGU(A),6.Kaishu,Thru Pass,31,4,67,63,19,86,,,successful,First
+HGU(A),19.Amy,Successful Pass,31,11,3,94,13,72,,,,First
+HGU(A),9.Pedro,Possession Lost,31,11,13,73,-,-,,,,First
+LCS(H),8.Shahdan,Successful Pass,31,13,18,64,20,73,,,,First
+LCS(H),16.Hami,Stray Pass,31,14,20,72,29,37,,,,First
+HGU(A),7.Shahfiq,Successful Pass,31,16,34,40,28,58,,,,First
+HGU(A),14.Kiki,Successful Pass,31,18,31,58,50,50,,,,First
+HGU(A),21.Nazhim,Successful Pass,31,23,48,48,38,42,,,,First
+HGU(A),7.Shahfiq,Successful Pass,31,24,39,46,50,40,,,,First
+HGU(A),21.Nazhim,Successful Pass,31,27,48,32,36,38,,,,First
+HGU(A),23.Sahil,Successful Pass,31,29,42,37,56,52,,,,First
+HGU(A),6.Kaishu,Successful Pass,31,35,52,67,47,91,,,,First
+HGU(A),4.Nazrul,Successful Pass,31,40,46,89,30,96,,,,First
+LCS(H),28.Saifulah,Interception,31,45,32,94,-,-,,,,First
+LCS(H),28.Saifulah,Successful Pass,31,47,38,91,48,78,,,,First
+LCS(H),9.Shinwook,Successful Pass,31,47,48,76,56,66,,,,First
+LCS(H),8.Shahdan,Thru Pass,31,50,59,58,76,35,,,intercepted,First
+HGU(A),20.Suhaimi,Interception,31,52,77,28,-,-,,,,First
+HGU(A),20.Suhaimi,Successful Pass,31,55,78,30,41,10,,,,First
+HGU(A),10.Shawal,Dribble attempt,31,59,43,17,24,28,,,,First
+HGU(A),10.Shawal,Thru Pass,31,59,25,28,15,42,,,successful,First
+HGU(A),23.Sahil,Possession Lost,31,59,15,43,-,-,,,,First
+LCS(H),3.Tajeli,Successful Pass,32,3,6,76,45,94,,,,First
+HGU(A),4.Nazrul,Foul,32,8,40,85,-,-,,,,First
+LCS(H),14.Hariss,Successful Pass,32,33,27,63,29,29,,,,First
+LCS(H),2.Henriqu,Successful Pass,32,36,29,31,39,4,,,,First
+LCS(H),12.Iqram,Successful Pass,32,39,39,7,65,3,,,,First
+LCS(H),7.Song,Successful Pass,32,43,61,11,35,23,,,,First
+LCS(H),2.Henriqu,Successful Pass,32,46,37,23,35,67,,,,First
+LCS(H),14.Hariss,Successful Pass,32,49,35,66,16,47,,,,First
+LCS(H),18.Hassan,Successful Pass,32,52,16,44,27,20,,,,First
+LCS(H),2.Henriqu,Successful Pass,32,56,29,22,42,2,,,,First
+LCS(H),12.Iqram,Successful Pass,32,58,37,3,43,19,,,,First
+LCS(H),16.Hami,Successful Pass,32,59,42,19,35,4,,,,First
+LCS(H),12.Iqram,Successful Pass,33,1,34,5,9,28,,,,First
+LCS(H),18.Hassan,Successful Pass,33,8,11,37,32,94,,,,First
+LCS(H),3.Tajeli,Stray Pass,33,8,33,94,60,93,,,,First
+HGU(A),4.Nazrul,Interception,33,11,63,92,-,-,,,,First
+LCS(H),28.Saifulah,Successful Pass,33,19,63,77,44,94,,,,First
+HGU(A),9.Pedro,Interception,33,22,45,92,-,-,,,,First
+HGU(A),4.Nazrul,Throw,33,49,46,96,19,92,,,,First
+LCS(H),14.Hariss,Interception,33,50,20,91,-,-,,,,First
+LCS(H),14.Hariss,Successful Pass,33,53,10,85,5,52,,,,First
+LCS(H),18.Hassan,Successful Pass,33,58,4,54,34,77,,,,First
+HGU(A),9.Pedro,Interception,33,57,35,76,-,-,,,,First
+LCS(H),14.Hariss,Successful Pass,34,1,23,74,38,54,,,,First
+LCS(H),8.Shahdan,Successful Pass,34,1,37,52,41,71,,,,First
+LCS(H),6.Anu,Successful Pass,34,6,42,70,90,86,,,,First
+LCS(H),28.Saifulah,Offside,34,7,83,87,-,-,,,,First
+HGU(A),6.Kaishu,Set Piece,34,41,91,89,63,80,,,,First
+HGU(A),23.Sahil,Successful Pass,34,42,63,79,53,81,,,,First
+HGU(A),9.Pedro,Possession Lost,34,44,57,68,-,-,,,,First
+HGU(A),23.Sahil,Interception,34,45,66,79,-,-,,,,First
+HGU(A),23.Sahil,Possession Lost,34,46,65,78,-,-,,,,First
+LCS(H),16.Hami,Successful Pass,34,46,61,65,48,80,,,,First
+LCS(H),8.Shahdan,Successful Pass,34,47,48,79,34,54,,,,First
+LCS(H),2.Henriqu,Successful Pass,34,51,41,55,64,35,,,,First
+LCS(H),7.Song,Successful Pass,34,56,73,28,79,9,,,,First
+LCS(H),12.Iqram,Cross,35,0,96,7,95,46,,cleared,,First
+HGU(A),21.Nazhim,Interception,35,0,95,47,-,-,,,,First
+HGU(A),23.Sahil,Successful Pass,35,5,65,4,73,14,,,,First
+HGU(A),20.Suhaimi,Successful Pass,35,8,69,10,61,35,,,,First
+HGU(A),9.Pedro,Successful Pass,35,11,66,34,68,50,,,,First
+HGU(A),7.Shahfiq,Successful Pass,35,13,68,51,75,72,,,,First
+HGU(A),4.Nazrul,Successful Pass,35,16,77,73,72,57,,,,First
+HGU(A),7.Shahfiq,Successful Pass,35,17,71,56,72,76,,,,First
+HGU(A),4.Nazrul,Successful Pass,35,19,76,78,63,65,,,,First
+HGU(A),14.Kiki,Successful Pass,35,21,58,66,67,90,,,,First
+HGU(A),19.Amy,Successful Pass,35,25,66,90,78,81,,,,First
+HGU(A),4.Nazrul,Successful Pass,35,30,77,78,61,60,,,,First
+HGU(A),9.Pedro,Successful Pass,35,32,63,60,66,84,,,,First
+HGU(A),4.Nazrul,Successful Pass,35,34,66,85,61,92,,,,First
+HGU(A),19.Amy,Successful Pass,35,36,64,92,73,85,,,,First
+HGU(A),4.Nazrul,Stray Pass,35,39,73,86,77,67,,,,First
+LCS(H),9.Shinwook,Interception,35,39,79,66,-,-,,,,First
+LCS(H),8.Shahdan,Successful Pass,35,44,79,51,81,31,,,,First
+LCS(H),7.Song,Shot,35,47,85,38,89,41,blocked,,,First
+HGU(A),20.Suhaimi,Interception,35,47,89,41,-,-,,,,First
+LCS(H),7.Song,Successful Pass,35,54,84,22,80,6,,,,First
+LCS(H),8.Shahdan,Successful Pass,35,58,78,13,67,18,,,,First
+LCS(H),12.Iqram,Successful Pass,36,0,68,22,65,39,,,,First
+LCS(H),6.Anu,Successful Pass,36,1,61,35,63,19,,,,First
+LCS(H),12.Iqram,Successful Pass,36,3,64,18,74,5,,,,First
+LCS(H),8.Shahdan,Successful Pass,36,4,71,5,79,17,,,,First
+LCS(H),16.Hami,Successful Pass,36,5,78,19,79,12,,,,First
+HGU(A),20.Suhaimi,Interception,36,7,82,13,-,-,,,,First
+HGU(A),10.Shawal,Successful Pass,36,9,76,11,67,23,,,,First
+HGU(A),23.Sahil,Successful Pass,36,10,67,25,54,38,,,,First
+HGU(A),9.Pedro,Successful Pass,36,11,56,43,66,70,,,,First
+HGU(A),19.Amy,Successful Pass,36,13,66,69,67,56,,,,First
+HGU(A),14.Kiki,Successful Pass,36,14,68,56,78,89,,,,First
+HGU(A),4.Nazrul,Successful Pass,36,17,77,88,66,73,,,,First
+HGU(A),14.Kiki,Successful Pass,36,22,67,66,36,4,,,,First
+HGU(A),10.Shawal,Successful Pass,36,28,37,8,56,15,,,,First
+HGU(A),20.Suhaimi,Successful Pass,36,31,54,14,33,4,,,,First
+HGU(A),10.Shawal,Successful Pass,36,33,33,7,53,13,,,,First
+HGU(A),20.Suhaimi,Successful Pass,36,36,56,13,66,25,,,,First
+HGU(A),21.Nazhim,Successful Pass,36,41,68,28,57,37,,,,First
+HGU(A),7.Shahfiq,Successful Pass,36,42,59,37,76,63,,,,First
+HGU(A),6.Kaishu,Successful Pass,36,49,74,59,75,37,,,,First
+HGU(A),21.Nazhim,Successful Pass,36,54,74,38,67,18,,,,First
+HGU(A),21.Nazhim,Successful Pass,36,56,67,19,45,3,,,,First
+HGU(A),10.Shawal,Stray Pass,37,1,58,14,26,10,,,,First
+LCS(H),2.Henriqu,Successful Pass,37,6,7,16,3,40,,,,First
+LCS(H),18.Hassan,Successful Pass,37,12,7,42,38,52,,,,First
+LCS(H),16.Hami,Successful Pass,37,15,43,60,62,94,,,,First
+LCS(H),28.Saifulah,Dribble attempt,37,21,70,92,76,60,,,,First
+HGU(A),19.Amy,Interception,37,21,75,61,-,-,,,,First
+HGU(A),19.Amy,Successful Pass,37,23,77,63,82,63,,,,First
+HGU(A),6.Kaishu,Successful Pass,37,26,82,67,77,60,,,,First
+HGU(A),7.Shahfiq,Successful Pass,37,27,77,61,84,86,,,,First
+HGU(A),4.Nazrul,Successful Pass,37,29,86,88,73,64,,,,First
+HGU(A),7.Shahfiq,Successful Pass,37,33,73,65,57,57,,,,First
+HGU(A),14.Kiki,Successful Pass,37,34,57,58,54,27,,,,First
+LCS(H),8.Shahdan,Foul,37,38,53,41,-,-,,,,First
+HGU(A),7.Shahfiq,Set Piece,37,59,51,41,59,67,,,,First
+HGU(A),4.Nazrul,Successful Pass,38,2,62,71,72,58,,,,First
+HGU(A),6.Kaishu,Successful Pass,38,7,74,58,74,39,,,,First
+HGU(A),21.Nazhim,Successful Pass,38,9,78,40,65,48,,,,First
+HGU(A),21.Nazhim,Successful Pass,38,15,76,37,81,23,,,,First
+HGU(A),20.Suhaimi,Successful Pass,38,18,79,23,91,39,,,,First
+HGU(A),13.Barudin,Successful Pass,38,25,86,43,85,59,,,,First
+HGU(A),6.Kaishu,Successful Pass,38,29,73,63,80,40,,,,First
+HGU(A),21.Nazhim,Successful Pass,38,33,80,37,66,57,,,,First
+HGU(A),23.Sahil,Successful Pass,38,35,67,53,82,64,,,,First
+HGU(A),6.Kaishu,Successful Pass,38,38,74,63,61,72,,,,First
+HGU(A),19.Amy,Stray Pass,38,44,43,88,11,36,,,,First
+LCS(H),18.Hassan,Successful Pass,38,46,12,40,17,26,,,,First
+LCS(H),12.Iqram,Successful Pass,38,51,22,17,46,4,,,,First
+LCS(H),28.Saifulah,Successful Pass,38,56,53,8,34,10,,,,First
+LCS(H),12.Iqram,Successful Pass,38,59,34,9,25,26,,,,First
+LCS(H),2.Henriqu,Successful Pass,39,1,25,26,28,63,,,,First
+LCS(H),14.Hariss,Successful Pass,39,4,28,63,33,93,,,,First
+LCS(H),3.Tajeli,Successful Pass,39,5,34,91,59,89,,,,First
+HGU(A),6.Kaishu,Interception,39,8,72,87,-,-,,,,First
+HGU(A),6.Kaishu,Successful Pass,39,9,72,87,62,87,,,,First
+HGU(A),4.Nazrul,Foul,39,42,64,90,-,-,,,,First
+LCS(H),3.Tajeli,Set Piece,39,46,62,89,58,8,,,,First
+LCS(H),12.Iqram,Successful Pass,39,53,70,20,81,4,,,,First
+LCS(H),7.Song,Cross,39,59,96,9,92,72,,unsuccessful,,First
+LCS(H),28.Saifulah,Successful Pass,40,3,91,89,73,79,,,,First
+LCS(H),3.Tajeli,Stray Pass,40,5,70,74,80,44,,,,First
+HGU(A),7.Shahfiq,Interception,40,7,78,44,-,-,,,,First
+HGU(A),23.Sahil,Successful Pass,40,12,71,47,55,43,,,,First
+LCS(H),7.Song,Foul,40,12,61,38,-,-,,,,First
+HGU(A),21.Nazhim,Set Piece,41,4,54,34,14,66,,,,First
+LCS(H),3.Tajeli,Interception,41,6,12,68,-,-,,,,First
+LCS(H),14.Hariss,Successful Pass,41,9,18,65,41,60,,,,First
+LCS(H),8.Shahdan,Successful Pass,41,12,38,56,40,91,,,,First
+LCS(H),28.Saifulah,Successful Pass,41,17,46,90,24,78,,,,First
+LCS(H),3.Tajeli,Successful Pass,41,20,26,78,27,41,,,,First
+HGU(A),10.Shawal,Interception,41,22,25,26,-,-,,,,First
+LCS(H),2.Henriqu,Interception,41,24,18,34,-,-,,,,First
+HGU(A),23.Sahil,Cross,41,30,26,19,0,69,,unsuccessful,,First
+LCS(H),18.Hassan,Successful Pass,42,1,5,44,5,29,,,,First
+LCS(H),2.Henriqu,Successful Pass,42,4,5,29,3,50,,,,First
+LCS(H),18.Hassan,Successful Pass,42,7,4,49,41,65,,,,First
+LCS(H),16.Hami,Stray Pass,42,8,41,66,66,78,,,,First
+HGU(A),4.Nazrul,Successful Pass,42,12,74,89,73,72,,,,First
+HGU(A),6.Kaishu,Successful Pass,42,20,76,69,60,57,,,,First
+HGU(A),7.Shahfiq,Successful Pass,42,23,68,64,38,93,,,,First
+HGU(A),19.Amy,Successful Pass,42,25,39,92,56,96,,,,First
+HGU(A),4.Nazrul,Stray Pass,42,27,62,93,31,82,,,,First
+LCS(H),16.Hami,Interception,42,27,30,81,-,-,,,,First
+LCS(H),16.Hami,Possession Lost,42,29,33,94,-,-,,,,First
+HGU(A),4.Nazrul,Throw,42,54,25,97,37,83,,,,First
+HGU(A),7.Shahfiq,Successful Pass,42,57,34,81,26,96,,,,First
+HGU(A),4.Nazrul,Successful Pass,42,58,32,96,40,86,,,,First
+HGU(A),7.Shahfiq,Thru Pass,42,58,40,87,18,77,,,intercepted,First
+LCS(H),3.Tajeli,Interception,43,0,21,81,-,-,,,,First
+LCS(H),3.Tajeli,Successful Pass,43,1,22,80,30,55,,,,First
+LCS(H),8.Shahdan,Successful Pass,43,1,30,54,29,68,,,,First
+LCS(H),6.Anu,Successful Pass,43,2,29,69,38,52,,,,First
+LCS(H),8.Shahdan,Successful Pass,43,4,42,60,56,69,,,,First
+LCS(H),9.Shinwook,Thru Pass,43,6,58,67,84,94,,,successful,First
+LCS(H),11.HafNor,Cross,43,10,94,84,86,45,,successful,,First
+LCS(H),8.Shahdan,Shot,43,11,86,48,100,41,off-target,,,First
+HGU(A),13.Barudin,Successful Pass,43,42,96,48,96,62,,,,First
+HGU(A),6.Kaishu,Successful Pass,43,47,96,60,62,4,,,,First
+HGU(A),10.Shawal,Successful Pass,43,51,66,3,78,4,,,,First
+HGU(A),20.Suhaimi,Successful Pass,43,52,84,5,76,16,,,,First
+LCS(H),6.Anu,Interception,43,53,77,18,-,-,,,,First
+LCS(H),7.Song,Successful Pass,43,57,69,12,83,39,,,,First
+LCS(H),28.Saifulah,Thru Pass,43,57,82,38,90,34,,,unsuccessful,First
+LCS(H),9.Shinwook,Possession Lost,44,1,92,35,-,-,,,,First
+HGU(A),13.Barudin,Successful Pass,44,19,95,44,96,59,,,,First
+HGU(A),6.Kaishu,Successful Pass,44,23,86,59,89,38,,,,First
+HGU(A),20.Suhaimi,Successful Pass,44,27,89,32,61,31,,,,First
+HGU(A),23.Sahil,Stray Pass,44,29,62,34,33,2,,,,First
+LCS(H),12.Iqram,Throw,44,37,28,2,34,16,,,,First
+LCS(H),2.Henriqu,Successful Pass,44,45,40,16,77,93,,,,First
+LCS(H),11.HafNor,Successful Pass,44,51,80,92,74,62,,,,First
+HGU(A),14.Kiki,Interception,44,55,73,63,-,-,,,,First
+HGU(A),14.Kiki,Successful Pass,44,56,69,62,56,40,,,,First
+HGU(A),23.Sahil,Thru Pass,45,0,41,40,19,37,,,successful,First
+HGU(A),9.Pedro,Shot,45,3,13,34,9,38,blocked,,,First
+LCS(H),14.Hariss,Interception,45,3,10,39,-,-,,,,First
+LCS(H),18.Hassan,Successful Pass,45,7,11,41,37,22,,,,First
+LCS(H),8.Shahdan,Successful Pass,45,11,39,23,63,4,,,,First
+LCS(H),7.Song,Successful Pass,45,16,70,11,85,4,,,,First
+LCS(H),8.Shahdan,Cross,45,19,91,10,94,68,,cleared,,First
+HGU(A),4.Nazrul,Interception,45,21,96,68,95,74,,,,First
+HGU(A),19.Amy,Successful Pass,45,25,81,92,94,88,,,,First
+HGU(A),4.Nazrul,Successful Pass,45,28,93,89,81,77,,,,First
+HGU(A),14.Kiki,Successful Pass,45,29,75,76,76,93,,,,First
+HGU(A),19.Amy,Successful Pass,45,32,76,92,92,89,,,,First
+HGU(A),4.Nazrul,Successful Pass,45,33,91,88,78,72,,,,First
+HGU(A),7.Shahfiq,Successful Pass,45,35,78,73,92,89,,,,First
+HGU(A),4.Nazrul,Successful Pass,45,38,96,88,90,76,,,,First
+LCS(H),6.Anu,Interception,45,39,91,78,-,-,,,,First
+HGU(A),4.Nazrul,Interception,45,42,98,84,-,-,,,,First
+HGU(A),4.Nazrul,Foul,45,43,98,84,-,-,,,,First
+LCS(H),8.Shahdan,Set Piece,46,34,97,86,94,38,,,,First
+LCS(H),2.Henriqu,Shot,46,36,91,33,99,40,off-target,,,First
+LCS(H),28.Saifulah,Successful Pass,46,45,50,50,59,47,,,,Second
+LCS(H),8.Shahdan,Successful Pass,46,47,57,44,67,90,,,,Second
+LCS(H),12.Iqram,Successful Pass,46,50,68,91,76,70,,,,Second
+LCS(H),2.Henriqu,Successful Pass,46,53,77,70,74,37,,,,Second
+LCS(H),14.Hariss,Successful Pass,46,56,77,48,65,5,,,,Second
+LCS(H),3.Tajeli,Successful Pass,46,59,65,7,53,8,,,,Second
+LCS(H),8.Shahdan,Successful Pass,47,2,43,7,34,20,,,,Second
+LCS(H),9.Shinwook,Stray Pass,47,3,36,18,27,11,,,,Second
+HGU(A),4.Nazrul,Interception,47,4,27,12,-,-,,,,Second
+HGU(A),6.Kaishu,Successful Pass,47,6,28,19,35,9,,,,Second
+LCS(H),11.HafNor,Interception,47,7,29,16,-,-,,,,Second
+LCS(H),11.HafNor,Foul,47,7,29,16,-,-,,,,Second
+HGU(A),37.Zulfahmi,Set Piece,47,36,35,16,76,90,,,,Second
+HGU(A),10.Shawal,Successful Pass,47,39,73,90,83,84,,,,Second
+LCS(H),6.Anu,Foul,47,42,81,85,-,-,,,,Second
+HGU(A),30.Moritz,Set Piece,47,48,81,90,66,88,,,,Second
+HGU(A),20.Suhaimi,Successful Pass,47,51,58,87,57,69,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,47,58,54,55,65,69,,,,Second
+HGU(A),30.Moritz,Successful Pass,47,58,66,69,51,93,,,,Second
+HGU(A),20.Suhaimi,Successful Pass,48,1,55,89,53,59,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,48,3,54,60,66,75,,,,Second
+HGU(A),30.Moritz,Successful Pass,48,5,66,77,71,94,,,,Second
+HGU(A),20.Suhaimi,Thru Pass,48,9,76,70,93,88,,,successful,Second
+HGU(A),10.Shawal,Cross,48,10,98,87,89,30,,successful,,Second
+HGU(A),19.Amy,Successful Pass,48,12,89,31,90,43,,,,Second
+HGU(A),14.Kiki,Possession Lost,48,13,91,42,-,-,,,,Second
+HGU(A),10.Shawal,Shot,48,17,93,69,99,60,off-target,,,Second
+HGU(A),9.Pedro,Successful Pass,48,46,76,13,82,5,,,,Second
+HGU(A),19.Amy,Successful Pass,48,48,84,7,82,22,,,,Second
+HGU(A),14.Kiki,Successful Pass,48,50,88,21,83,47,,,,Second
+HGU(A),30.Moritz,Successful Pass,48,54,74,30,78,4,,,,Second
+HGU(A),9.Pedro,Successful Pass,48,57,80,7,70,18,,,,Second
+HGU(A),30.Moritz,Successful Pass,49,1,75,26,83,68,,,,Second
+HGU(A),10.Shawal,Successful Pass,49,4,77,67,81,89,,,,Second
+HGU(A),20.Suhaimi,Successful Pass,49,8,81,93,73,64,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,49,11,71,63,69,29,,,,Second
+LCS(H),11.HafNor,Interception,49,12,66,22,-,-,,,,Second
+HGU(A),4.Nazrul,Throw,49,25,32,2,20,14,,,,Second
+HGU(A),13.Barudin,Successful Pass,49,30,18,19,22,38,,,,Second
+HGU(A),21.Nazhim,Successful Pass,49,41,25,34,36,27,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,49,42,37,26,26,17,,,,Second
+HGU(A),6.Kaishu,Successful Pass,49,47,27,28,23,40,,,,Second
+HGU(A),21.Nazhim,Successful Pass,49,50,25,50,22,67,,,,Second
+HGU(A),20.Suhaimi,Stray Pass,49,53,22,74,39,86,,,,Second
+LCS(H),7.Song,Foul,49,53,24,74,-,-,,,,Second
+LCS(H),7.Song,Successful Pass,50,16,11,54,21,33,,,,Second
+HGU(A),6.Kaishu,Successful Pass,50,19,20,31,30,44,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,50,21,33,43,20,31,,,,Second
+HGU(A),6.Kaishu,Successful Pass,50,22,20,31,39,25,,,,Second
+HGU(A),14.Kiki,Successful Pass,50,24,30,27,29,5,,,,Second
+HGU(A),4.Nazrul,Successful Pass,50,26,23,8,46,24,,,,Second
+LCS(H),14.Hariss,Interception,50,27,41,28,-,-,,,,Second
+LCS(H),14.Hariss,Foul,50,30,41,28,-,-,,,,Second
+HGU(A),37.Zulfahmi,Set Piece,50,50,43,28,59,31,,,,Second
+HGU(A),9.Pedro,Successful Pass,50,51,59,33,55,48,,,,Second
+HGU(A),30.Moritz,Possession Lost,50,52,55,50,-,-,,,,Second
+LCS(H),3.Tajeli,Throw,51,14,63,1,55,11,,,,Second
+LCS(H),8.Shahdan,Successful Pass,51,15,56,14,64,4,,,,Second
+LCS(H),3.Tajeli,Successful Pass,51,19,63,8,48,61,,,,Second
+LCS(H),12.Iqram,Possession Lost,51,20,52,60,-,-,,,,Second
+HGU(A),10.Shawal,Foul,51,20,47,61,-,-,,,,Second
+LCS(H),12.Iqram,Successful Pass,51,42,45,84,22,95,,,,Second
+LCS(H),7.Song,Successful Pass,51,45,25,93,35,76,,,,Second
+LCS(H),6.Anu,Successful Pass,51,48,36,80,55,44,,,,Second
+LCS(H),14.Hariss,Successful Pass,51,51,55,44,43,4,,,,Second
+LCS(H),3.Tajeli,Successful Pass,51,54,43,5,25,18,,,,Second
+HGU(A),6.Kaishu,Interception,51,56,26,19,-,-,,,,Second
+HGU(A),14.Kiki,Successful Pass,51,58,37,39,42,69,,,,Second
+HGU(A),10.Shawal,Thru Pass,52,3,67,73,80,45,,,intercepted,Second
+LCS(H),14.Hariss,Interception,52,3,80,43,-,-,,,,Second
+LCS(H),18.Hassan,Successful Pass,52,10,95,50,70,12,,,,Second
+LCS(H),8.Shahdan,Successful Pass,52,17,59,16,74,34,,,,Second
+LCS(H),14.Hariss,Successful Pass,52,23,73,32,36,93,,,,Second
+LCS(H),12.Iqram,Thru Pass,52,27,35,93,13,70,,,successful,Second
+LCS(H),7.Song,Cross,52,30,5,72,4,66,,cleared,,Second
+HGU(A),21.Nazhim,Interception,52,31,2,66,-,-,,,,Second
+HGU(A),13.Barudin,Interception,52,32,2,55,-,-,,,,Second
+HGU(A),30.Moritz,Interception,52,40,13,70,-,-,,,,Second
+LCS(H),28.Saifulah,Interception,52,44,33,92,-,-,,,,Second
+HGU(A),9.Pedro,Foul,52,48,41,86,-,-,,,,Second
+LCS(H),2.Henriqu,Set Piece,52,55,51,83,57,61,,,,Second
+LCS(H),14.Hariss,Successful Pass,53,0,59,61,43,6,,,,Second
+LCS(H),3.Tajeli,Stray Pass,53,5,41,7,24,7,,,,Second
+HGU(A),4.Nazrul,Successful Pass,53,6,25,9,39,19,,,,Second
+HGU(A),14.Kiki,Successful Pass,53,8,40,19,44,5,,,,Second
+HGU(A),19.Amy,Possession Lost,53,9,45,6,-,-,,,,Second
+LCS(H),3.Tajeli,Throw,53,14,56,1,72,21,,,,Second
+LCS(H),14.Hariss,Successful Pass,53,17,70,22,67,51,,,,Second
+LCS(H),2.Henriqu,Successful Pass,53,20,66,58,30,94,,,,Second
+LCS(H),7.Song,Thru Pass,53,25,25,82,7,79,,,successful,Second
+LCS(H),28.Saifulah,Possession Lost,53,28,4,96,-,-,,,,Second
+HGU(A),21.Nazhim,Successful Pass,53,30,8,95,21,95,,,,Second
+HGU(A),10.Shawal,Successful Pass,53,32,20,93,21,69,,,,Second
+HGU(A),30.Moritz,Successful Pass,53,35,22,70,40,62,,,,Second
+HGU(A),9.Pedro,Successful Pass,53,36,41,63,37,75,,,,Second
+HGU(A),30.Moritz,Successful Pass,53,38,38,72,42,89,,,,Second
+HGU(A),10.Shawal,Successful Pass,53,42,38,88,20,87,,,,Second
+HGU(A),20.Suhaimi,Successful Pass,53,44,22,87,44,77,,,,Second
+HGU(A),30.Moritz,Stray Pass,53,46,43,75,61,88,,,,Second
+LCS(H),12.Iqram,Interception,53,47,62,89,-,-,,,,Second
+HGU(A),20.Suhaimi,Throw,54,9,69,97,79,90,,,,Second
+HGU(A),30.Moritz,Possession Lost,54,13,83,94,-,-,,,,Second
+LCS(H),12.Iqram,Foul,54,10,81,93,-,-,,,,Second
+HGU(A),14.Kiki,Set Piece,55,1,80,92,91,57,,,,Second
+LCS(H),8.Shahdan,Interception,55,2,91,61,-,-,,,,Second
+HGU(A),20.Suhaimi,Throw,55,40,82,97,87,84,,,,Second
+HGU(A),30.Moritz,Successful Pass,55,42,88,86,76,68,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,55,44,77,68,83,50,,,,Second
+HGU(A),9.Pedro,Shot,55,46,80,53,98,45,blocked,,,Second
+LCS(H),18.Hassan,Successful Pass,55,58,91,48,85,24,,,,Second
+LCS(H),3.Tajeli,Successful Pass,56,2,77,17,49,40,,,,Second
+LCS(H),9.Shinwook,Successful Pass,56,4,48,39,59,29,,,,Second
+LCS(H),8.Shahdan,Stray Pass,56,6,58,27,43,47,,,,Second
+HGU(A),21.Nazhim,Interception,56,7,44,46,-,-,,,,Second
+LCS(H),6.Anu,Successful Pass,56,9,56,50,72,64,,,,Second
+LCS(H),2.Henriqu,Successful Pass,56,10,71,65,57,83,,,,Second
+LCS(H),12.Iqram,Successful Pass,56,14,45,82,16,92,,,,Second
+LCS(H),11.HafNor,Successful Pass,56,19,16,80,19,60,,,,Second
+LCS(H),6.Anu,Possession Lost,56,20,19,64,-,-,,,,Second
+HGU(A),30.Moritz,Successful Pass,56,26,31,72,34,46,,,,Second
+HGU(A),14.Kiki,Successful Pass,56,31,54,42,72,18,,,,Second
+HGU(A),19.Amy,Shot,56,35,79,27,84,36,blocked,,,Second
+LCS(H),14.Hariss,Successful Pass,56,51,91,28,73,5,,,,Second
+LCS(H),3.Tajeli,Successful Pass,56,55,78,4,57,14,,,,Second
+LCS(H),9.Shinwook,Successful Pass,56,55,57,16,44,3,,,,Second
+HGU(A),6.Kaishu,Interception,56,57,33,11,-,-,,,,Second
+HGU(A),4.Nazrul,Successful Pass,56,59,44,4,49,20,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,57,0,49,19,68,16,,,,Second
+HGU(A),14.Kiki,Successful Pass,57,2,67,18,39,53,,,,Second
+HGU(A),21.Nazhim,Successful Pass,57,7,38,54,48,50,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,57,9,48,50,40,60,,,,Second
+HGU(A),21.Nazhim,Successful Pass,57,16,34,64,43,54,,,,Second
+LCS(H),8.Shahdan,Interception,57,18,42,53,-,-,,,,Second
+LCS(H),8.Shahdan,Thru Pass,57,20,35,48,23,29,,,successful,Second
+HGU(A),6.Kaishu,Interception,57,22,14,29,-,-,,,,Second
+LCS(H),7.Song,Interception,57,25,22,17,-,-,,,,Second
+LCS(H),7.Song,Foul,57,27,21,18,-,-,,,,Second
+HGU(A),6.Kaishu,Set Piece,57,57,20,19,44,10,,,,Second
+HGU(A),9.Pedro,Dribble Attempt,58,6,37,5,61,2,,,,Second
+LCS(H),14.Hariss,Interception,58,6,60,4,-,-,,,,Second
+LCS(H),14.Hariss,Successful Pass,58,9,60,8,42,4,,,,Second
+HGU(A),19.Amy,Interception,58,12,41,7,-,-,,,,Second
+HGU(A),4.Nazrul,Successful Pass,58,14,36,5,41,12,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,58,14,41,13,30,3,,,,Second
+LCS(H),7.Song,Foul,58,17,28,3,-,-,,,,Second
+HGU(A),4.Nazrul,Set Piece,58,37,27,5,15,56,,,,Second
+HGU(A),21.Nazhim,Successful Pass,58,40,22,60,33,41,,,,Second
+HGU(A),37.Zulfahmi,Stray Pass,58,42,33,43,24,96,,,,Second
+LCS(H),12.Iqram,Throw,58,54,25,96,20,86,,,,Second
+LCS(H),10.Lopes,Successful Pass,58,55,20,85,27,95,,,,Second
+LCS(H),12.Iqram,Successful Pass,58,57,27,95,41,87,,,,Second
+LCS(H),6.Anu,Successful Pass,59,0,39,84,56,69,,,,Second
+LCS(H),2.Henriqu,Successful Pass,59,2,60,74,54,40,,,,Second
+LCS(H),14.Hariss,Successful Pass,59,6,53,30,43,2,,,,Second
+LCS(H),3.Tajeli,Successful Pass,59,8,41,5,55,22,,,,Second
+LCS(H),14.Hariss,Successful Pass,59,11,60,20,62,59,,,,Second
+LCS(H),2.Henriqu,Successful Pass,59,15,67,64,46,94,,,,Second
+LCS(H),6.Anu,Successful Pass,59,16,43,94,28,93,,,,Second
+LCS(H),12.Iqram,Successful Pass,59,21,23,76,14,91,,,,Second
+LCS(H),11.HafNor,Successful Pass,59,24,15,93,9,84,,,,Second
+LCS(H),12.Iqram,Offside,59,25,7,84,-,-,,,,Second
+HGU(A),21.Nazhim,Successful Pass,59,46,9,86,17,68,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,59,48,13,86,8,95,,,,Second
+HGU(A),20.Suhaimi,Successful Pass,59,49,10,93,4,85,,,,Second
+HGU(A),21.Nazhim,Successful Pass,59,50,6,88,42,93,,,,Second
+LCS(H),12.Iqram,Interception,59,53,41,89,-,-,,,,Second
+LCS(H),14.Hariss,Successful Pass,59,59,46,51,27,37,,,,Second
+LCS(H),7.Song,Successful Pass,60,0,24,39,26,7,,,,Second
+LCS(H),3.Tajeli,Possession Lost,60,2,23,6,-,-,,,,Second
+HGU(A),4.Nazrul,Throw,60,25,27,2,45,7,,,,Second
+LCS(H),3.Tajeli,Interception,60,26,43,6,-,-,,,,Second
+HGU(A),4.Nazrul,Throw,60,43,36,2,31,17,,,,Second
+HGU(A),37.Zulfahmi,Stray Pass,60,48,21,3,16,15,,,,Second
+LCS(H),9.Shinwook,Interception,60,48,16,14,-,-,,,,Second
+HGU(A),4.Nazrul,Interception,60,50,21,8,-,-,,,,Second
+LCS(H),9.Shinwook,Successful Pass,60,50,16,15,26,12,,,,Second
+LCS(H),7.Song,Successful Pass,60,52,21,10,24,3,,,,Second
+LCS(H),10.Lopes,Successful Pass,60,53,24,4,28,12,,,,Second
+LCS(H),8.Shahdan,Successful Pass,60,55,33,11,24,3,,,,Second
+LCS(H),10.Lopes,Stray Pass,60,57,24,4,16,9,,,,Second
+HGU(A),37.Zulfahmi,Interception,60,57,17,9,-,-,,,,Second
+HGU(A),4.Nazrul,Successful Pass,61,2,19,2,36,19,,,,Second
+HGU(A),9.Pedro,Thru Pass,61,5,28,30,57,89,,,intercepted,Second
+LCS(H),12.Iqram,Interception,61,8,58,85,-,-,,,,Second
+LCS(H),11.HafNor,Successful Pass,61,12,41,76,65,64,,,,Second
+LCS(H),2.Henriqu,Successful Pass,61,15,65,66,57,14,,,,Second
+LCS(H),3.Tajeli,Successful Pass,61,19,57,12,66,32,,,,Second
+LCS(H),14.Hariss,Successful Pass,61,22,70,27,71,67,,,,Second
+LCS(H),2.Henriqu,Successful Pass,61,24,71,68,42,56,,,,Second
+HGU(A),21.Nazhim,Foul,61,25,45,65,-,-,,,,Second
+HGU(A),21.Nazhim,Interception,61,26,46,66,-,-,,,,Second
+LCS(H),10.Lopes,Set Piece,61,51,44,68,54,46,,,,Second
+LCS(H),14.Hariss,Successful Pass,61,53,54,44,52,23,,,,Second
+LCS(H),8.Shahdan,Successful Pass,61,54,53,21,60,42,,,,Second
+LCS(H),14.Hariss,Successful Pass,61,58,55,45,57,83,,,,Second
+LCS(H),2.Henriqu,Successful Pass,62,1,60,79,26,96,,,,Second
+LCS(H),12.Iqram,Successful Pass,62,2,28,94,23,78,,,,Second
+LCS(H),11.HafNor,Possession Lost,62,3,22,74,-,-,,,,Second
+HGU(A),30.Moritz,Successful Pass,62,4,29,72,33,52,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,62,5,34,51,49,79,,,,Second
+HGU(A),9.Pedro,Foul,62,12,41,62,-,-,,,,Second
+HGU(A),9.Pedro,Yellow Card,62,17,43,65,-,-,,,,Second
+LCS(H),2.Henriqu,Set Piece,62,55,43,72,31,94,,,,Second
+LCS(H),12.Iqram,Successful Pass,62,59,36,70,20,46,,,,Second
+LCS(H),9.Shinwook,Thru Pass,63,2,21,43,13,57,,,successful,Second
+LCS(H),10.Lopes,Dribble Attempt,63,4,15,57,7,54,,,,Second
+HGU(A),20.Suhaimi,Interception,63,5,8,57,-,-,,,,Second
+HGU(A),20.Suhaimi,Stray Pass,63,7,9,54,16,5,,,,Second
+LCS(H),3.Tajeli,Cross,63,11,9,7,6,50,,cleared,,Second
+HGU(A),21.Nazhim,Interception,63,12,6,47,-,-,,,,Second
+LCS(H),9.Shinwook,Foul,63,20,8,45,-,-,,,,Second
+LCS(H),11.HafNor,Corner,64,1,2,96,15,87,,,,Second
+LCS(H),6.Anu,Cross,64,5,14,82,12,49,,unsuccessful,,Second
+HGU(A),9.Pedro,Interception,64,6,12,51,-,-,,,,Second
+LCS(H),12.Iqram,Thru Pass,64,10,39,54,9,60,,,successful,Second
+LCS(H),2.Henriqu,Shot,64,14,7,59,1,55,woodwork,,,Second
+LCS(H),8.Shahdan,Corner,64,57,2,2,6,51,,,,Second
+LCS(H),9.Shinwook,Shot,64,59,7,51,1,50,off-target,,,Second
+HGU(A),13.Barudin,Successful Pass,65,22,5,47,5,34,,,,Second
+HGU(A),6.Kaishu,Successful Pass,65,26,4,37,36,55,,,,Second
+HGU(A),30.Moritz,Possession Lost,65,28,37,56,-,-,,,,Second
+LCS(H),11.HafNor,Foul,65,31,39,60,-,-,,,,Second
+HGU(A),30.Moritz,Set Piece,65,41,41,60,47,90,,,,Second
+HGU(A),20.Suhaimi,Successful Pass,65,44,55,89,74,95,,,,Second
+HGU(A),10.Shawal,Successful Pass,65,46,67,93,52,85,,,,Second
+HGU(A),30.Moritz,Successful Pass,65,49,52,86,30,73,,,,Second
+HGU(A),21.Nazhim,Successful Pass,65,52,32,70,17,57,,,,Second
+HGU(A),13.Barudin,Successful Pass,65,58,20,57,24,74,,,,Second
+HGU(A),21.Nazhim,Successful Pass,66,3,25,76,12,58,,,,Second
+HGU(A),13.Barudin,Successful Pass,66,6,12,61,18,44,,,,Second
+HGU(A),6.Kaishu,Successful Pass,66,16,27,35,45,31,,,,Second
+LCS(H),14.Hariss,Interception,66,16,44,30,-,-,,,,Second
+LCS(H),8.Shahdan,Successful Pass,66,17,39,31,37,42,,,,Second
+LCS(H),6.Anu,Successful Pass,66,18,37,42,31,31,,,,Second
+LCS(H),7.Song,Foul,66,20,28,25,-,-,,,,Second
+HGU(A),37.Zulfahmi,Set Piece,66,28,28,9,60,87,,,,Second
+HGU(A),10.Shawal,Foul,66,31,61,84,-,-,,,,Second
+HGU(A),10.Shawal,Set Piece,66,56,61,83,68,37,,,,Second
+LCS(H),14.Hariss,Successful Pass,67,2,69,36,65,5,,,,Second
+LCS(H),3.Tajeli,Successful Pass,67,5,70,7,43,3,,,,Second
+LCS(H),7.Song,Dribble Attempt,67,11,44,10,32,22,,,,Second
+LCS(H),7.Song,Successful Pass,67,11,32,25,29,38,,,,Second
+LCS(H),10.Lopes,Thru Pass,67,13,23,45,6,69,,,successful,Second
+LCS(H),11.HafNor,Assist,67,15,4,70,9,59,,,,Second
+LCS(H),12.Iqram,Shot,67,16,9,61,1,57,Goal,,,Second
+HGU(A),9.Pedro,Successful Pass,68,28,50,51,41,50,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,68,29,42,49,45,66,,,,Second
+HGU(A),30.Moritz,Successful Pass,68,31,43,65,53,40,,,,Second
+HGU(A),14.Kiki,Successful Pass,68,35,48,40,23,35,,,,Second
+HGU(A),6.Kaishu,Successful Pass,68,45,28,34,27,59,,,,Second
+HGU(A),21.Nazhim,Successful Pass,68,46,30,52,11,49,,,,Second
+HGU(A),13.Barudin,Successful Pass,68,50,15,51,21,32,,,,Second
+HGU(A),6.Kaishu,Successful Pass,68,57,25,33,27,54,,,,Second
+HGU(A),21.Nazhim,Successful Pass,69,0,25,53,37,47,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,69,1,34,49,10,50,,,,Second
+HGU(A),13.Barudin,Stray Pass,69,4,19,57,24,45,,,,Second
+LCS(H),10.Lopes,Shot,69,4,22,47,0,52,off-target,,,Second
+HGU(A),13.Barudin,Successful Pass,69,29,8,38,5,63,,,,Second
+HGU(A),21.Nazhim,Successful Pass,69,32,4,68,8,88,,,,Second
+LCS(H),11.HafNor,Foul,69,34,9,90,-,-,,,,Second
+HGU(A),20.Suhaimi,Set Piece,69,54,15,92,6,84,,,,Second
+HGU(A),21.Nazhim,Successful Pass,69,57,8,85,5,62,,,,Second
+HGU(A),13.Barudin,Successful Pass,69,59,6,67,11,47,,,,Second
+HGU(A),6.Kaishu,Successful Pass,70,13,22,34,41,24,,,,Second
+HGU(A),37.Zulfahmi,Possession Lost,70,16,37,37,-,-,,,,Second
+LCS(H),7.Song,Successful Pass,70,17,36,20,33,30,,,,Second
+LCS(H),9.Shinwook,Successful Pass,70,18,34,31,33,10,,,,Second
+HGU(A),37.Zulfahmi,Interception,70,24,35,12,-,-,,,,Second
+HGU(A),14.Kiki,Successful Pass,70,25,32,22,20,28,,,,Second
+HGU(A),6.Kaishu,Successful Pass,70,26,20,27,26,7,,,,Second
+HGU(A),4.Nazrul,Successful Pass,70,27,23,9,34,10,,,,Second
+LCS(H),6.Anu,Interception,70,29,34,15,-,-,,,,Second
+HGU(A),19.Amy,Stray Pass,70,29,35,13,34,20,,,,Second
+LCS(H),6.Anu,Successful Pass,70,32,26,25,20,34,,,,Second
+LCS(H),10.Lopes,Successful Pass,70,34,19,34,12,28,,,,Second
+HGU(A),4.Nazrul,Interception,70,35,11,30,-,-,,,,Second
+HGU(A),4.Nazrul,Successful Pass,70,35,11,30,19,30,,,,Second
+HGU(A),6.Kaishu,Successful Pass,70,37,19,32,25,45,,,,Second
+HGU(A),30.Moritz,Successful Pass,70,39,29,39,46,88,,,,Second
+HGU(A),10.Shawal,Successful Pass,70,45,57,63,37,78,,,,Second
+HGU(A),20.Suhaimi,Successful Pass,70,48,37,80,44,62,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,70,51,45,56,52,45,,,,Second
+HGU(A),30.Moritz,Successful Pass,70,55,55,30,72,24,,,,Second
+HGU(A),14.Kiki,Successful Pass,70,59,74,24,84,8,,,,Second
+HGU(A),19.Amy,Successful Pass,71,2,89,14,96,27,,,,Second
+HGU(A),14.Kiki,Cross,71,3,97,27,97,34,,unsuccessful,,Second
+LCS(H),14.Hariss,Interception,71,4,97,34,-,-,,,,Second
+HGU(A),14.Kiki,Interception,71,8,93,30,-,-,,,,Second
+HGU(A),14.Kiki,Successful Pass,71,8,94,29,87,23,,,,Second
+HGU(A),19.Amy,Cross,71,11,88,25,98,71,,unsuccessful,,Second
+HGU(A),9.Pedro,Cross,71,18,88,90,89,54,,unsuccessful,,Second
+LCS(H),8.Shahdan,Interception,71,19,88,55,96,96,,,,Second
+HGU(A),20.Suhaimi,Throw,71,33,90,97,96,90,,,,Second
+HGU(A),30.Moritz,Possession Lost,71,34,94,93,-,-,,,,Second
+LCS(H),12.Iqram,Throw,71,58,91,97,71,87,,,,Second
+HGU(A),10.Shawal,Interception,71,58,71,87,-,-,,,,Second
+HGU(A),19.Amy,Stray Pass,72,0,55,57,69,52,,,,Second
+LCS(H),6.Anu,Interception,72,1,68,52,-,-,,,,Second
+LCS(H),6.Anu,Successful Pass,72,2,69,52,55,50,,,,Second
+LCS(H),7.Song,Successful Pass,72,3,54,48,55,24,,,,Second
+LCS(H),3.Tajeli,Dribble Attempt,72,10,48,19,23,6,,,,Second
+LCS(H),3.Tajeli,Thru Pass,72,11,25,6,7,25,,,successful,Second
+LCS(H),7.Song,Stray Pass,72,13,6,25,10,34,,,,Second
+HGU(A),14.Kiki,Interception,72,14,10,35,-,-,,,,Second
+LCS(H),7.Song,Shot,72,17,12,35,1,49,saved,,,Second
+HGU(A),21.Nazhim,Stray Pass,72,25,4,30,34,5,,,,Second
+LCS(H),14.Hariss,Successful Pass,72,30,40,8,20,3,,,,Second
+LCS(H),3.Tajeli,Cross,72,35,20,4,1,65,,unsuccessful,,Second
+LCS(H),11.HafNor,Cross,72,44,12,93,3,43,,unsuccessful,,Second
+HGU(A),14.Kiki,Set Piece,74,32,42,19,8,46,,,,Second
+HGU(A),21.Nazhim,Successful Pass,74,41,21,60,14,35,,,,Second
+HGU(A),6.Kaishu,Successful Pass,74,48,19,35,18,62,,,,Second
+HGU(A),21.Nazhim,Successful Pass,74,52,20,63,36,62,,,,Second
+LCS(H),6.Anu,Foul,74,54,35,62,-,-,,,,Second
+LCS(H),10.Lopes,Set Piece,75,4,35,64,44,91,,,,Second
+LCS(H),12.Iqram,Successful Pass,75,7,39,91,48,74,,,,Second
+LCS(H),2.Henriqu,Successful Pass,75,8,49,80,55,43,,,,Second
+LCS(H),14.Hariss,Successful Pass,75,11,55,43,51,9,,,,Second
+LCS(H),3.Tajeli,Successful Pass,75,15,53,9,64,29,,,,Second
+LCS(H),14.Hariss,Successful Pass,75,18,64,31,64,71,,,,Second
+LCS(H),2.Henriqu,Successful Pass,75,22,66,70,43,92,,,,Second
+LCS(H),12.Iqram,Successful Pass,75,25,40,89,21,91,,,,Second
+LCS(H),7.Song,Dribble Attempt,75,29,26,91,6,90,,,,Second
+HGU(A),10.Shawal,Interception,75,31,9,88,-,-,,,,Second
+LCS(H),12.Iqram,Throw,76,15,8,97,6,87,,,,Second
+LCS(H),10.Lopes,Successful Pass,76,16,6,87,13,92,,,,Second
+LCS(H),12.Iqram,Cross,76,17,14,91,12,87,,unsuccessful,,Second
+HGU(A),10.Shawal,Interception,76,18,12,89,-,-,,,,Second
+LCS(H),12.Iqram,Throw,76,24,18,97,9,94,,,,Second
+LCS(H),10.Lopes,Successful Pass,76,29,9,85,17,96,,,,Second
+LCS(H),12.Iqram,Successful Pass,76,33,23,93,31,55,,,,Second
+LCS(H),8.Shahdan,Successful Pass,76,35,31,56,49,74,,,,Second
+LCS(H),2.Henriqu,Successful Pass,76,38,62,77,80,53,,,,Second
+LCS(H),18.Hassan,Stray Pass,76,43,78,44,45,1,,,,Second
+HGU(A),4.Nazrul,Throw,76,53,43,2,56,10,,,,Second
+HGU(A),14.Kiki,Successful Pass,76,54,56,12,45,2,,,,Second
+HGU(A),4.Nazrul,Successful Pass,76,56,43,3,40,14,,,,Second
+HGU(A),14.Kiki,Successful Pass,76,58,41,11,34,2,,,,Second
+HGU(A),4.Nazrul,Successful Pass,76,58,34,5,31,24,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,77,5,41,41,58,62,,,,Second
+HGU(A),30.Moritz,Successful Pass,77,8,57,64,81,78,,,,Second
+HGU(A),10.Shawal,Cross,77,11,89,90,90,24,,successful,,Second
+LCS(H),11.HafNor,Successful Pass,77,16,72,14,86,16,,,,Second
+LCS(H),3.Tajeli,Successful Pass,77,20,87,14,67,29,,,,Second
+LCS(H),10.Lopes,Successful Pass,77,21,68,32,60,5,,,,Second
+LCS(H),11.HafNor,Successful Pass,77,25,65,3,70,17,,,,Second
+LCS(H),10.Lopes,Possession Lost,77,26,71,18,-,-,,,,Second
+HGU(A),14.Kiki,Interception,77,27,71,19,-,-,,,,Second
+HGU(A),37.Zulfahmi,Foul,77,26,71,19,-,-,,,,Second
+LCS(H),3.Tajeli,Set Piece,77,55,62,26,25,89,,,,Second
+LCS(H),12.Iqram,Possession Lost,77,59,24,96,-,-,,,,Second
+HGU(A),20.Suhaimi,Throw,78,13,39,97,47,84,,,,Second
+HGU(A),30.Moritz,Successful Pass,78,16,34,75,26,42,,,,Second
+HGU(A),6.Kaishu,Successful Pass,78,25,38,28,41,10,,,,Second
+HGU(A),4.Nazrul,Stray Pass,78,27,41,13,57,2,,,,Second
+LCS(H),3.Tajeli,Throw,78,33,60,2,73,16,,,,Second
+LCS(H),14.Hariss,Successful Pass,78,35,72,19,60,27,,,,Second
+LCS(H),6.Anu,Successful Pass,78,36,63,27,74,46,,,,Second
+LCS(H),2.Henriqu,Successful Pass,78,40,79,49,73,86,,,,Second
+LCS(H),12.Iqram,Successful Pass,78,44,74,85,52,86,,,,Second
+LCS(H),7.Song,Successful Pass,78,45,54,81,68,77,,,,Second
+HGU(A),14.Kiki,Interception,78,48,55,80,-,-,,,,Second
+HGU(A),14.Kiki,Throw,78,54,47,94,69,78,,,,Second
+HGU(A),30.Moritz,Successful Pass,78,58,70,79,90,83,,,,Second
+HGU(A),14.Kiki,Cross,79,0,93,89,98,46,,unsuccessful,,Second
+LCS(H),18.Hassan,Interception,79,0,97,47,-,-,,,,Second
+LCS(H),18.Hassan,Successful Pass,79,6,96,46,71,43,,,,Second
+LCS(H),10.Lopes,Successful Pass,79,9,69,44,49,58,,,,Second
+LCS(H),9.Shinwook,Successful Pass,79,12,45,65,21,90,,,,Second
+LCS(H),7.Song,Dribble Attempt,79,22,10,81,2,71,,,,Second
+LCS(H),7.Song,Foul,79,25,4,70,-,-,,,,Second
+HGU(A),6.Kaishu,Successful Pass,81,47,22,37,21,57,,,,Second
+HGU(A),21.Nazhim,Successful Pass,81,48,22,59,8,45,,,,Second
+HGU(A),13.Barudin,Stray Pass,81,53,6,54,48,98,,,,Second
+LCS(H),19.Naqi,Throw,82,14,67,97,54,94,,,,Second
+LCS(H),17.Lestienne,Successful Pass,82,17,47,93,53,76,,,,Second
+LCS(H),6.Anu,Successful Pass,82,18,56,75,72,86,,,,Second
+LCS(H),2.Henriqu,Successful Pass,82,21,73,80,89,53,,,,Second
+LCS(H),18.Hassan,Successful Pass,82,27,87,54,39,87,,,,Second
+HGU(A),10.Shawal,Interception,82,29,39,85,-,-,,,,Second
+LCS(H),19.Naqi,Throw,82,49,65,96,47,85,,,,Second
+LCS(H),9.Shinwook,Foul,82,55,44,74,-,-,,,,Second
+HGU(A),37.Zulfahmi,Set Piece,83,6,44,73,37,91,,,,Second
+HGU(A),11.Afiq,Successful Pass,83,7,36,86,37,62,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,83,10,36,64,13,45,,,,Second
+HGU(A),13.Barudin,Successful Pass,83,14,17,45,24,36,,,,Second
+HGU(A),6.Kaishu,Successful Pass,83,23,26,31,27,52,,,,Second
+HGU(A),21.Nazhim,Possession Lost,83,26,41,52,-,-,,,,Second
+LCS(H),9.Shinwook,Thru Pass,83,28,34,51,14,72,,,successful,Second
+LCS(H),17.Lestienne,Shot,83,31,16,66,3,50,saved,,,Second
+HGU(A),13.Barudin,Stray Pass,83,41,5,47,43,66,,,,Second
+LCS(H),19.Naqi,Interception,83,41,43,68,-,-,,,,Second
+HGU(A),11.Afiq,Successful Pass,83,44,30,70,42,95,,,,Second
+HGU(A),10.Shawal,Successful Pass,83,48,42,93,30,84,,,,Second
+HGU(A),11.Afiq,Successful Pass,83,51,33,82,9,58,,,,Second
+HGU(A),21.Nazhim,Successful Pass,83,57,23,60,21,40,,,,Second
+HGU(A),6.Kaishu,Successful Pass,84,0,22,41,35,44,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,84,1,35,45,21,54,,,,Second
+HGU(A),21.Nazhim,Successful Pass,84,3,23,54,7,48,,,,Second
+HGU(A),13.Barudin,Successful Pass,84,7,8,48,17,38,,,,Second
+HGU(A),6.Kaishu,Successful Pass,84,12,19,47,20,60,,,,Second
+HGU(A),21.Nazhim,Successful Pass,84,14,21,57,29,36,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,84,15,30,36,8,45,,,,Second
+HGU(A),6.Kaishu,Successful Pass,84,18,10,44,26,53,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,84,19,25,52,10,66,,,,Second
+HGU(A),21.Nazhim,Successful Pass,84,25,13,88,13,62,,,,Second
+HGU(A),6.Kaishu,Successful Pass,84,30,21,58,22,77,,,,Second
+HGU(A),21.Nazhim,Successful Pass,84,31,22,76,8,47,,,,Second
+HGU(A),13.Barudin,Successful Pass,84,38,9,48,13,64,,,,Second
+HGU(A),21.Nazhim,Successful Pass,84,41,13,64,22,54,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,84,42,21,55,11,67,,,,Second
+HGU(A),21.Nazhim,Successful Pass,84,46,10,77,19,92,,,,Second
+HGU(A),11.Afiq,Successful Pass,84,48,18,88,32,96,,,,Second
+LCS(H),10.Lopes,Interception,84,51,26,92,-,-,,,,Second
+HGU(A),11.Afiq,Foul,84,50,29,90,-,-,,,,Second
+HGU(A),11.Afiq,Yellow Card,84,57,35,89,-,-,,,,Second
+LCS(H),19.Naqi,Set Piece,85,20,34,84,58,91,,,,Second
+LCS(H),2.Henriqu,Successful Pass,85,23,68,84,67,49,,,,Second
+LCS(H),14.Hariss,Successful Pass,85,27,68,40,56,3,,,,Second
+LCS(H),5.Adli,Interception,85,34,56,4,-,-,,,,Second
+LCS(H),5.Adli,Throw,85,49,46,1,27,13,,,,Second
+LCS(H),5.Adli,Set Piece,86,9,33,7,32,18,,,,Second
+HGU(A),37.Zulfahmi,Foul,85,52,30,6,-,-,,,,Second
+LCS(H),10.Lopes,Successful Pass,86,11,33,19,45,4,,,,Second
+LCS(H),8.Shahdan,Successful Pass,86,15,44,5,55,30,,,,Second
+LCS(H),14.Hariss,Successful Pass,86,16,53,31,44,6,,,,Second
+LCS(H),8.Shahdan,Successful Pass,86,18,43,9,23,2,,,,Second
+LCS(H),5.Adli,Interception,86,22,26,10,-,-,,,,Second
+HGU(A),14.Kiki,Interception,86,23,28,13,-,-,,,,Second
+LCS(H),6.Anu,Successful Pass,86,25,39,42,49,52,,,,Second
+LCS(H),2.Henriqu,Successful Pass,86,31,38,61,13,92,,,,Second
+LCS(H),19.Naqi,Cross,86,37,3,81,6,45,,successful,,Second
+LCS(H),9.Shinwook,Shot,86,38,7,44,1,56,blocked,,,Second
+HGU(A),6.Kaishu,Successful Pass,86,54,14,26,13,15,,,,Second
+HGU(A),4.Nazrul,Successful Pass,86,55,11,14,27,9,,,,Second
+HGU(A),6.Kaishu,Successful Pass,87,1,38,4,61,3,,,,Second
+HGU(A),19.Amy,Successful Pass,87,2,63,5,67,16,,,,Second
+HGU(A),14.Kiki,Successful Pass,87,4,71,21,75,41,,,,Second
+LCS(H),5.Adli,Interception,87,7,68,26,-,-,,,,Second
+LCS(H),6.Anu,Successful Pass,87,9,59,38,55,49,,,,Second
+LCS(H),10.Lopes,Dribble Attempt,87,14,55,49,30,44,,,,Second
+LCS(H),10.Lopes,Thru Pass,87,14,29,43,8,67,,,successful,Second
+LCS(H),17.Lestienne,Assist,87,16,6,69,10,52,,,,Second
+LCS(H),10.Lopes,Shot,87,19,11,52,1,56,Goal,,,Second
+HGU(A),9.Pedro,Successful Pass,89,35,50,51,41,51,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,89,36,42,48,42,62,,,,Second
+HGU(A),30.Moritz,Successful Pass,89,39,43,65,33,91,,,,Second
+HGU(A),2.Anders,Successful Pass,89,42,33,87,44,96,,,,Second
+HGU(A),24.Amir,Successful Pass,89,44,40,90,23,78,,,,Second
+HGU(A),21.Nazhim,Successful Pass,89,46,22,75,37,49,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,89,47,37,51,23,33,,,,Second
+HGU(A),6.Kaishu,Successful Pass,89,50,22,30,36,34,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,89,52,38,38,59,36,,,,Second
+HGU(A),9.Pedro,Successful Pass,89,53,57,38,62,26,,,,Second
+HGU(A),14.Kiki,Successful Pass,89,59,69,28,81,62,,,,Second
+HGU(A),24.Amir,Successful Pass,90,0,78,61,83,75,,,,Second
+HGU(A),30.Moritz,Cross,90,5,78,80,97,42,,unsuccessful,,Second
+LCS(H),18.Hassan,Successful Pass,90,17,89,41,66,25,,,,Second
+LCS(H),8.Shahdan,Successful Pass,90,20,66,26,57,4,,,,Second
+LCS(H),5.Adli,Successful Pass,90,26,41,4,48,15,,,,Second
+LCS(H),8.Shahdan,Successful Pass,90,29,47,16,77,30,,,,Second
+LCS(H),14.Hariss,Thru Pass,90,34,69,26,17,46,,,offside,Second
+LCS(H),17.Lestienne,Offside,90,37,17,41,-,-,,,,Second
+HGU(A),13.Barudin,Successful Pass,90,38,12,47,19,54,,,,Second
+HGU(A),21.Nazhim,Set Piece,90,43,23,57,37,78,,,,Second
+HGU(A),30.Moritz,Shot,90,48,39,75,99,42,off-target,,,Second
+LCS(H),18.Hassan,Successful Pass,91,18,95,55,58,75,,,,Second
+LCS(H),10.Lopes,Dribble Attempt,91,19,60,78,26,54,,,,Second
+LCS(H),10.Lopes,Thru Pass,91,24,26,54,8,72,,,successful,Second
+LCS(H),17.Lestienne,Cross,91,26,6,72,2,31,,successful,,Second
+LCS(H),2.Henriqu,Successful Pass,91,48,87,91,93,53,,,,Second
+LCS(H),18.Hassan,Successful Pass,91,52,93,51,79,90,,,,Second
+LCS(H),19.Naqi,Successful Pass,91,54,79,87,76,61,,,,Second
+LCS(H),6.Anu,Successful Pass,91,57,77,64,65,50,,,,Second
+HGU(A),6.Kaishu,Interception,92,1,45,49,-,-,,,,Second
+HGU(A),6.Kaishu,Successful Pass,92,2,45,50,54,29,,,,Second
+HGU(A),10.Shawal,Successful Pass,92,10,71,25,73,54,,,,Second
+HGU(A),30.Moritz,Stray Pass,92,13,73,52,78,48,,,,Second
+LCS(H),8.Shahdan,Interception,92,13,76,47,-,-,,,,Second
+LCS(H),11.HafNor,Successful Pass,92,15,71,32,77,49,,,,Second
+LCS(H),8.Shahdan,Successful Pass,92,17,74,49,66,60,,,,Second
+HGU(A),24.Amir,Interception,92,17,66,57,-,-,,,,Second
+LCS(H),10.Lopes,Interception,92,20,66,74,-,-,,,,Second
+LCS(H),10.Lopes,Thru Pass,92,22,65,75,27,85,,,successful,Second
+LCS(H),17.Lestienne,Successful Pass,92,29,17,76,22,55,,,,Second
+LCS(H),10.Lopes,Successful Pass,92,31,16,54,19,42,,,,Second
+LCS(H),9.Shinwook,Successful Pass,92,33,21,46,17,76,,,,Second
+LCS(H),17.Lestienne,Cross,92,37,17,75,7,38,,cleared,,Second
+LCS(H),10.Lopes,Shot,92,41,13,35,4,43,saved,,,Second
+LCS(H),10.Lopes,Successful Pass,92,43,12,40,32,15,,,,Second
+HGU(A),30.Moritz,Successful Pass,92,48,52,28,47,47,,,,Second
+HGU(A),14.Kiki,Thru Pass,92,51,56,47,82,9,,,successful,Second
+HGU(A),10.Shawal,Successful Pass,93,0,97,14,87,16,,,,Second
+HGU(A),30.Moritz,Cross,93,2,90,17,88,43,,unsuccessful,,Second
+LCS(H),6.Anu,Interception,93,3,86,45,-,-,,,,Second
+LCS(H),8.Shahdan,Successful Pass,93,4,81,37,89,64,,,,Second
+HGU(A),14.Kiki,Interception,93,8,83,52,-,-,,,,Second
+HGU(A),14.Kiki,Shot,93,13,83,51,99,44,saved,,,Second
+HGU(A),37.Zulfahmi,Corner,93,41,98,3,95,43,,,,Second
+LCS(H),2.Henriqu,Interception,93,42,97,43,-,-,,,,Second
+HGU(A),37.Zulfahmi,Throw,93,49,83,2,89,10,,,,Second
+HGU(A),30.Moritz,Cross,93,55,82,6,94,40,,cleared,,Second
+LCS(H),14.Hariss,Interception,93,55,93,39,-,-,,,,Second
+HGU(A),14.Kiki,Interception,93,58,76,30,-,-,,,,Second
+LCS(H),5.Adli,Successful Pass,94,0,90,19,65,11,,,,Second
+LCS(H),11.HafNor,Stray Pass,94,1,68,13,58,18,,,,Second
+HGU(A),4.Nazrul,Successful Pass,94,4,60,19,71,40,,,,Second
+HGU(A),30.Moritz,Successful Pass,94,8,70,40,80,29,,,,Second
+HGU(A),30.Moritz,Successful Pass,94,15,75,32,84,9,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,94,18,84,13,90,34,,,,Second
+HGU(A),30.Moritz,Cross,94,22,95,27,99,43,,unsuccessful,,Second
+LCS(H),18.Hassan,Successful Pass,94,34,95,43,92,63,,,,Second
+LCS(H),2.Henriqu,Successful Pass,94,35,86,65,82,90,,,,Second
+LCS(H),19.Naqi,Successful Pass,94,39,79,90,62,95,,,,Second
+LCS(H),10.Lopes,Successful Pass,94,39,62,93,72,75,,,,Second
+LCS(H),19.Naqi,Successful Pass,94,42,66,73,46,94,,,,Second
+LCS(H),10.Lopes,Thru Pass,94,45,41,92,19,83,,,successful,Second
+LCS(H),19.Naqi,Successful Pass,94,48,14,92,19,66,,,,Second
+HGU(A),6.Kaishu,Interception,94,50,18,62,-,-,,,,Second
+HGU(A),21.Nazhim,Successful Pass,94,53,11,74,25,58,,,,Second
+HGU(A),37.Zulfahmi,Successful Pass,94,54,24,58,27,76,,,,Second
+HGU(A),24.Amir,Successful Pass,94,56,31,75,40,91,,,,Second
+HGU(A),14.Kiki,Thru Pass,94,59,47,81,78,48,,,successful,Second
+HGU(A),9.Pedro,Shot,95,3,81,58,99,39,saved,,,Second
+HGU(A),37.Zulfahmi,Cross,95,29,85,11,91,40,,cleared,,Second
+LCS(H),9.Shinwook,Interception,95,29,92,38,-,-,,,,Second
+HGU(A),2.Anders,Shot,95,32,74,54,99,45,off-target,,,Second
+LCS(H),18.Hassan,Successful Pass,96,10,95,47,92,33,,,,Second
